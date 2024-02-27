@@ -107,7 +107,7 @@ const config = {
             position: "left",
             label: "Knowledge Base",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/rss", label: "Blog", position: "left" },
         ],
       },
       footer: {
@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: "Blog",
-                to: "/blog",
+                to: "/rss",
               },
             ],
           },
