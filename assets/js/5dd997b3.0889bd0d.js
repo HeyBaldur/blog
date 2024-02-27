@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[200],{7354:e=>{e.exports=JSON.parse('{"label":"Software Development Career","permalink":"/blog/blog/tags/software-development-career","allTagsPath":"/blog/blog/tags","count":2,"unlisted":false}')}}]);

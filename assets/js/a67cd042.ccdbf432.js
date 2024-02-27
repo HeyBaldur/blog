@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1722],{6987:e=>{e.exports=JSON.parse('{"label":"Software Developer","permalink":"/blog/tags/software-developer","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);

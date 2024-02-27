@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6347],{2149:e=>{e.exports=JSON.parse('{"label":"Tech Careers","permalink":"/blog/blog/tags/tech-careers","allTagsPath":"/blog/blog/tags","count":2,"unlisted":false}')}}]);
