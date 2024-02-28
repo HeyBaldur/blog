@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2250],{5103:e=>{e.exports=JSON.parse('{"label":"Investor","permalink":"/blog/blog/tags/investor","allTagsPath":"/blog/blog/tags","count":1,"unlisted":false}')}}]);

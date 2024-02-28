@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6112],{1353:e=>{e.exports=JSON.parse('{"label":"Front-end Developer","permalink":"/blog/blog/tags/front-end-developer","allTagsPath":"/blog/blog/tags","count":1,"unlisted":false}')}}]);

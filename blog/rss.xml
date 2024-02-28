@@ -4,10 +4,21 @@
         <title>Offical KB - ThePartner Blog</title>
         <link>https://heybaldur.github.io/blog/blog</link>
         <description>Offical KB - ThePartner Blog</description>
-        <lastBuildDate>Tue, 27 Feb 2024 10:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 16:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Angular]]></title>
+            <link>https://heybaldur.github.io/blog/blog/angular</link>
+            <guid>https://heybaldur.github.io/blog/blog/angular</guid>
+            <pubDate>Wed, 28 Feb 2024 16:11:07 GMT</pubDate>
+            <category>Front-end Developer</category>
+            <category>Angular</category>
+            <category>Open To Collaborate</category>
+            <category>Investor</category>
+            <category>FullStack Developer</category>
+        </item>
         <item>
             <title><![CDATA[How to become a software developer]]></title>
             <link>https://heybaldur.github.io/blog/blog/become-a-software-developer</link>

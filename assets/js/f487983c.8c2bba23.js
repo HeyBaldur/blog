@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4135],{8226:e=>{e.exports=JSON.parse('{"label":"FullStack Developer","permalink":"/blog/blog/tags/full-stack-developer","allTagsPath":"/blog/blog/tags","count":1,"unlisted":false}')}}]);
