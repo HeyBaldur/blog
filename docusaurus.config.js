@@ -94,7 +94,7 @@ const config = {
           }),
         },
       ],
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/seo-banner.png",
       navbar: {
         logo: {
           alt: "My Site Logo",
